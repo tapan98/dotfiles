@@ -15,9 +15,9 @@ set background=dark
 set mouse=a
 :syntax on
 :set tabstop=4 smarttab
-:set expandtab # Tabs as spaces
+:set expandtab " Tabs as spaces
 
-# Show spaces
+" Show spaces
 set list
 set lcs+=space:·
 
