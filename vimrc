@@ -13,9 +13,9 @@ set number
 set is
 set background=dark
 set mouse=a
-:syntax on
-:set tabstop=4 smarttab
-:set expandtab " Tabs as spaces
+syntax on
+set shiftwidth=4 smarttab
+set expandtab " Tabs as spaces
 
 " Show spaces
 set list
